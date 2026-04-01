@@ -1,0 +1,133 @@
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:13 INFO  [main] Utils - [TestNG] Running:
+  C:\Users\aditya.raj7\AppData\Local\Temp\testng-eclipse-281472252\testng-customsuite.xml
+
+2026-03-31 15:30:13 INFO  [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-03-31 15:30:14 WARN  [main] Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2026-03-31 15:30:14 INFO  [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4ed38226: 60 ms
+2026-03-31 15:30:14 INFO  [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@676ff3b0: 1 ms
+2026-03-31 15:30:14 INFO  [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3cbcd8f3: 8 ms
+2026-03-31 15:30:14 INFO  [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@256a1825: 6 ms
+2026-03-31 15:30:14 INFO  [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@44cb460e: 7 ms
+2026-03-31 15:30:14 INFO  [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@17271176: 0 ms
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:30:25 INFO  [main] Utils - [TestNG] Running:
+  C:\Users\aditya.raj7\AppData\Local\Temp\testng-eclipse--1588792151\testng-customsuite.xml
+
+2026-03-31 15:30:25 INFO  [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-03-31 15:30:26 INFO  [main] Hooks - === Opening browser once for all scenarios ===
+2026-03-31 15:30:26 INFO  [main] DriverFactory - Initializing Edge browser
+2026-03-31 15:30:28 INFO  [main] DriverFactory - Browser Session ID: d5ab8c4b1818e0e25ff3f3835672184f
+2026-03-31 15:30:40 INFO  [main] DriverFactory - Browser Session ID: d5ab8c4b1818e0e25ff3f3835672184f
+2026-03-31 15:31:36 INFO  [main] Hooks - === Closing browser after all scenarios ===
+2026-03-31 15:31:36 INFO  [main] DriverFactory - Closing Edge browser
+2026-03-31 15:31:36 INFO  [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@339f3a55: 67 ms
+2026-03-31 15:31:36 INFO  [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@209f3887: 1 ms
+2026-03-31 15:31:36 INFO  [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3a3b10f4: 6 ms
+2026-03-31 15:31:36 INFO  [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@280fafd: 5 ms
+2026-03-31 15:31:36 INFO  [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4b957db0: 29 ms
+2026-03-31 15:31:36 INFO  [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5d71b500: 1 ms
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-03-31 15:34:03 INFO  [main] Utils - [TestNG] Running:
+  C:\Users\aditya.raj7\AppData\Local\Temp\testng-eclipse--1646014112\testng-customsuite.xml
+
+2026-03-31 15:34:03 INFO  [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-03-31 15:34:04 INFO  [main] Hooks - === Opening browser once for all scenarios ===
+2026-03-31 15:34:04 INFO  [main] DriverFactory - Initializing Edge browser
+2026-03-31 15:34:06 INFO  [main] DriverFactory - Browser Session ID: e0f7f757fa870c57ed50ac58ddd7ddec
+2026-03-31 15:34:18 INFO  [main] DriverFactory - Browser Session ID: e0f7f757fa870c57ed50ac58ddd7ddec
+2026-03-31 15:35:14 INFO  [main] Hooks - === Closing browser after all scenarios ===
+2026-03-31 15:35:14 INFO  [main] DriverFactory - Closing Edge browser
+2026-03-31 15:35:14 INFO  [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4ae2e781: 80 ms
+2026-03-31 15:35:14 INFO  [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7d1c164a: 0 ms
+2026-03-31 15:35:14 INFO  [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3554bdc0: 5 ms
+2026-03-31 15:35:14 INFO  [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6af609ea: 5 ms
+2026-03-31 15:35:14 INFO  [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1e1e837d: 51 ms
+2026-03-31 15:35:14 INFO  [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4b957db0: 0 ms

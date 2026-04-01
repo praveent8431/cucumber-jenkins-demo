@@ -1,0 +1,6 @@
+2026-04-01 10:41:30 INFO  [main] Hooks - === Opening browser once for all scenarios ===
+2026-04-01 10:41:31 INFO  [main] DriverFactory - Initializing Edge browser
+2026-04-01 10:41:34 INFO  [main] DriverFactory - Browser Session ID: 6ff698a018accd6eda2f4ae436898e61
+2026-04-01 10:41:47 INFO  [main] DriverFactory - Browser Session ID: 6ff698a018accd6eda2f4ae436898e61
+2026-04-01 10:42:45 INFO  [main] Hooks - === Closing browser after all scenarios ===
+2026-04-01 10:42:45 INFO  [main] DriverFactory - Closing Edge browser

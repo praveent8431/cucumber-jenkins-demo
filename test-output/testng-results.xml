@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-31T15:34:03 IST" name="Default suite" finished-at="2026-03-31T15:35:14 IST" duration-ms="71088">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.demo.runners.RunCucumberTest@3b7ff809]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2026-03-31T15:34:03 IST" name="Default test" finished-at="2026-03-31T15:35:14 IST" duration-ms="71088">
+      <class name="com.demo.runners.RunCucumberTest">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.demo.runners.RunCucumberTest@3b7ff809]" started-at="2026-03-31T15:34:03 IST" name="setUpClass" finished-at="2026-03-31T15:34:06 IST" duration-ms="3060" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@16a3cc88]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.demo.runners.RunCucumberTest@3b7ff809]" started-at="2026-03-31T15:34:06 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-03-31T15:35:14 IST" duration-ms="67458" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login using Excel data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Reusing Browser with Excel Data"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.demo.runners.RunCucumberTest@3b7ff809]" started-at="2026-03-31T15:35:14 IST" name="tearDownClass" finished-at="2026-03-31T15:35:14 IST" duration-ms="526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.demo.runners.RunCucumberTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
